@@ -21,4 +21,4 @@ jobs:
     - name: list files
       run: ls -l
     - name: print inputs
-      run: echo ${{ inputs.project }}
+      run: echo ${{ inputs.project }}    
